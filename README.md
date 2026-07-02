@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Arowz 👋
 
-<!--
-**Arowz-tach/Arowz-tach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring DevOps & Cloud Engineer
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Linux & Nginx
+- AWS (EC2, Security Groups)
+- Cloud Computing
+- Prompt Engineering for AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- AWS Cloud Computing (Advanced Diploma - Alison)
+- Cisco Networking Basics
+- Docker (coming soon)
+
+## 🔗 Projects
+- [AWS EC2 + Nginx Setup](https://github.com/Arowz-tach/aws-nginx-ec2-setup)
+
+## 📫 Connect With Me
+- LinkedIn: [Riliwan Arowolo](https://www.linkedin.com/in/riliwan-arowolo)
